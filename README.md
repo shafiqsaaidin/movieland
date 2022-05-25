@@ -1,6 +1,6 @@
 # MovieLand
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
@@ -19,5 +19,5 @@ npm run build
 
 ![homepage](./screenshot/ss-1.png)
 
-## App Demo
+### App Demo
 https://genuine-syrniki-4d5cb3.netlify.app/
